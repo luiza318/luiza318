@@ -6,9 +6,9 @@
 
 💡 Sobre mim
 
-Sou apaixonada por tecnologia e desenvolvimento web.
-Gosto de criar interfaces funcionais, criativas e intuitivas, integrando o Front-end e o Back-end para construir aplicações completas.
-Atualmente, estou aprimorando minhas habilidades em JavaScript e Node.js, e sempre em busca de novos desafios e aprendizados.
+Sou apaixonada por tecnologia e desenvolvimento web, com interesse em expandir meus conhecimentos para áreas como Inteligência Artificial e automação de processos.
+Tenho domínio do Pacote Office e gosto de unir organização e tecnologia para criar soluções práticas e criativas.
+Estou sempre em busca de evoluir, de desenvolver novas habilidades, de desafios e aprendizados.
 
 🧩 Tecnologias que utilizo
 
