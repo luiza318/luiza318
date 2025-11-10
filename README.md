@@ -12,10 +12,11 @@ Atualmente, estou aprimorando minhas habilidades em JavaScript e Node.js, e semp
 
 🧩 Tecnologias que utilizo
 
+```
 💻 Front-end: HTML | CSS | JavaScript | Bootstrap | Tailwind | jQuery
 ⚙️ Back-end: Node.js | APIs | HTTP | JSON
 🗂️ Outros: Git | GitHub | VS Code | Figma
-
+```
 📂 Projetos em destaque
 🎭 Arte em Cena
 
